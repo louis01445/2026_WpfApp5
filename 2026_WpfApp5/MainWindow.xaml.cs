@@ -16,6 +16,7 @@ namespace _2026_WpfApp5
     /// </summary>
     public partial class MainWindow : Window
     {
+        
         public MainWindow()
         {
             InitializeComponent();
