@@ -27,7 +27,7 @@ namespace _2026_WpfApp5
         }
         private void InitializeData()
         {
-            students.Add(new Student { StudentId = "S001", StudentName = "吳培凱" });
+            students.Add(new Student { StudentId = "S001", StudentName = "何紹綸" });
             students.Add(new Student { StudentId = "S002", StudentName = "趙玟豪" });
             students.Add(new Student { StudentId = "S003", StudentName = "李俊廷" });
 
